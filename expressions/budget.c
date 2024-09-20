@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void){
     float income, rent, utilities, groceries, transportation;
     printf("This is going to calculate your budget for the month.\n");
