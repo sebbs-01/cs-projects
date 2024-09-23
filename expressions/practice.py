@@ -1,6 +1,5 @@
 num = 2
 numTwo = 8
-perensEight = 1*4-2*2
 
 print(7-24//(numTwo)*4+6)
 print(18//3-7+(num)*5)
