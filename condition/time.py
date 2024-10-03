@@ -1,5 +1,5 @@
 import datetime
 
-now = datetime.datetime.now().hour
+now = (datetime.datetime.now())
 
 print(now)
