@@ -1,0 +1,5 @@
+name = [20]
+place = [20]
+verb = [20]
+noun = [20]
+sentence = [500]
