@@ -4,7 +4,7 @@ int i;
 int main(){
     while (i < 8){
         printf("%s\n", siblings[i]);
-        i+=1;
+        i++;
     }
     return 0;
 }

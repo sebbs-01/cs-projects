@@ -2,11 +2,13 @@
 #include <string.h>
 
 int main(void){
-    char name[20], decor[20];
+    char name[20], decoration[20],decorationTwo[20];
     printf("What is your name?: ");
     scanf("%s", name);
-    str
-    
+    printf("Type a decoration: ");
+    scanf("%s", decoration);
+    strcat(decoration, name);
+    printf("%s", decoration);
     
     return 0;
 }
