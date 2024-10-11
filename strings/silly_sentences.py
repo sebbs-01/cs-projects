@@ -1,5 +1,5 @@
-name = [20]
-place = [20]
-verb = [20]
-noun = [20]
-sentence = [500]
+name = input("Type a name: ")
+place = input("Type a place: ")
+verb = input("Type a verb: ")
+noun = input("Type a noun: ")
+print(name+ " went to the "+ place+ " where they "+ verb+ " and bought a "+ noun+ ".")
